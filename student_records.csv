@@ -1,0 +1,21 @@
+student_id,name,gender,department,age,city,cgpa,attendance,fee_paid,admission_date
+1,Ali Raza,M,BCS,20,Lahore,3.45,92,Yes,2023-09-15
+2,Sara Khan,F,BAI,19,lahore,3.80,96,Yes,2024-09-10
+3,Omar Farooq,M,BCS,21,Islamabad,2.90,78,No,2022-09-12
+4,Hina Malik,F,BSE,20,Karachi,3.10,,Yes,2023-09-18
+5,Zain Ahmed,M,BAI,22,LAHORE ,3.65,88,Yes,2021-09-13
+6,Ayesha Noor,F,BCS,19,Lahore,,91,Yes,2024-09-09
+7,Bilal Hassan,M,bcs,250,Multan,3.20,85,No,2023-09-14
+8,Maryam Iqbal,F,BSE,20,Islamabad,3.95,99,Yes,2023-09-11
+9,Usman Ali,M,BAI,23,Faisalabad,2.45,64,No,2020-09-14
+10,Fatima Zahra,F,BCS,20,Lahore,3.55,93,Yes,2023-09-15
+11,Hamza Sheikh,M,BSE,21,karachi,3.00,N/A,Yes,2022-09-19
+12,Noor Fatima,F,BAI,19,Lahore,3.72,97,Yes,2024-09-10
+13,Saad Mahmood,M,BCS,22,Rawalpindi,2.75,70,No,2021-09-13
+14,Iman Tariq,F,BSE,20,Lahore,4.70,90,Yes,2023-09-18
+15,Danish Butt,M,BAI,21,Gujranwala,3.35,82,Yes,2022-09-12
+16,Rabia Aslam,F,BCS,twenty,Lahore,3.60,94,Yes,2023-09-11
+17,Kamran Akmal,M,BSE,24,Sialkot,2.20,58,No,2019-13-45
+18,Sana Javed,F,BAI,20,Islamabad,3.40,89,Yes,2023-09-13
+19,Talha Khan,M,BSE,21,Lahore,3.05,,No,2022-09-15
+20,Hamza Sheikh,M,BSE,21,karachi,3.00,N/A,Yes,2022-09-19
